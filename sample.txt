@@ -3,4 +3,8 @@ some junk
 blahdey blooooooooooo\!
 an edit through the web ui
 change on local file system
+<<<<<<< HEAD
 local UI new line
+=======
+web ui new line
+>>>>>>> FETCH_HEAD
